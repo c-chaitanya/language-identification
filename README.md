@@ -24,11 +24,11 @@ curl -X POST \
 
 ### Future work
 
-* As `K` value changes, number of languages returned by the model increases. Formating the return value in API needs to be done accordingly. Additionally the language iso code returned by the model could be converted to human understandable format by using additional libraries like `pycountry`
+* As `K` value changes, number of languages returned by the model increases. Formating the return value in API needs to be done accordingly. Additionally the language iso code returned by the model could be converted to human understandable format by using additional python libraries like `pycountry`
 
 ### License
 
-`anguage-identification` is a public domain work, dedicated using
+`language-identification` is a public domain work, dedicated using
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do
 whatever you want with it.
 
